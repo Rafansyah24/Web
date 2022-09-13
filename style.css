@@ -49,3 +49,18 @@ a {
 a:hover {
     background-color: #6e49ea;
 }
+
+.hero {
+    text-align: center;
+    /* background-color: aqua; */
+    width: 45%;
+    margin: 30px auto;
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+h5 {
+    line-height: 25px;
+}
